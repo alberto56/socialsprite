@@ -26,7 +26,11 @@ USAGE
 - reference sprite.css from your html
 - you must add two classes to an element which has display: block (*) for this to work: one class for the size (e.g. social-icon-32 for 32px square) and one for the type (e.g. social-icon-twitter).
 
-(*) If you are adding these classes to an element which has display: inline (most often an "a"), you might want to give it display:block or display:inline-block.
+(*) If you are adding these classes to an element which has display: inline (most often an "a"), you might want to give it display:block or display:inline-block, or simply add the class social-icon-block
+
+Example: <a href="social-icon-block social-icon-facebook social-icon-64">Facebook</a> will show a 64px-square facebook icon.
+
+See example.html for more examples.
 
 EXTENDING
 *********
@@ -58,6 +62,10 @@ sprite.css and sprite.png and the actual files that you should add to your site.
 
 VERSION HISTORY
 ***************
+
+v. 1.0-alpha3, 1 march, 2012
+
+- added class .social-icon-block, because it's almost always required to make a tags into display: block.
 
 v. 1.0-alpha2, 1 march, 2012
 

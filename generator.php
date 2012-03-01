@@ -22,7 +22,7 @@ $sizes = array(
 <head>
 <style TYPE="text/css"><!--
 <?php foreach ($sizes as $size => $y): ?>
-.block {
+.social-icon-block {
   margin: 5px;
   display: block;
 }
@@ -46,7 +46,7 @@ $sizes = array(
 <body>
 <?php foreach ($icons as $icon): ?>
 <?php foreach ($sizes as $size => $pos): ?>
-<a href="#" class="block social-icon-<?php print $icon; ?> social-icon-<?php print $size ?>">test</a>
+<a href="#" class="social-icon-block social-icon-<?php print $icon; ?> social-icon-<?php print $size ?>">test</a>
 <?php endforeach; ?>
 <?php endforeach; ?>
 </body>

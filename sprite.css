@@ -1,5 +1,8 @@
 /* Released under GPL 2 license, see https://github.com/alberto56/socialsprite for details */
 
+.social-icon-block {
+  display: block;
+}
 .social-icon-32 {
   width: 32px;
   height: 32px;
