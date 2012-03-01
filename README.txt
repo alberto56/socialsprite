@@ -4,6 +4,11 @@ SOCIAL SPRITE
 CSS code and a sprite which you can add to any website, providing you with social network buttons in a variety of sizes.
 Open example.html in a browser to see what this does, and examine example.html's code in a text editor.
 
+ISSUES
+******
+
+Add your feature requests, bugs and/or suggested patches to https://github.com/alberto56/socialsprite/issues
+
 FEATURES
 ********
 
