@@ -1,0 +1,202 @@
+/* Released under GPL 2 license, see https://github.com/alberto56/socialsprite for details */
+
+.block {
+  margin: 5px;
+  display: block;
+}
+.social-icon-32 {
+  width: 32px;
+  height: 32px;
+  background: url(sprite.png);
+  text-indent: -20000px;
+}
+.social-icon-youtube.social-icon-32 { 
+  background-position: -0px -0px;
+}
+.social-icon-youtube.social-icon-32:hover {
+  background-position: -0px -32px;
+}
+.social-icon-twitter.social-icon-32 { 
+  background-position: -32px -0px;
+}
+.social-icon-twitter.social-icon-32:hover {
+  background-position: -32px -32px;
+}
+.social-icon-rss.social-icon-32 { 
+  background-position: -64px -0px;
+}
+.social-icon-rss.social-icon-32:hover {
+  background-position: -64px -32px;
+}
+.social-icon-flickr.social-icon-32 { 
+  background-position: -96px -0px;
+}
+.social-icon-flickr.social-icon-32:hover {
+  background-position: -96px -32px;
+}
+.social-icon-facebook.social-icon-32 { 
+  background-position: -128px -0px;
+}
+.social-icon-facebook.social-icon-32:hover {
+  background-position: -128px -32px;
+}
+.block {
+  margin: 5px;
+  display: block;
+}
+.social-icon-24 {
+  width: 24px;
+  height: 24px;
+  background: url(sprite.png);
+  text-indent: -20000px;
+}
+.social-icon-youtube.social-icon-24 { 
+  background-position: -0px -64px;
+}
+.social-icon-youtube.social-icon-24:hover {
+  background-position: -0px -88px;
+}
+.social-icon-twitter.social-icon-24 { 
+  background-position: -24px -64px;
+}
+.social-icon-twitter.social-icon-24:hover {
+  background-position: -24px -88px;
+}
+.social-icon-rss.social-icon-24 { 
+  background-position: -48px -64px;
+}
+.social-icon-rss.social-icon-24:hover {
+  background-position: -48px -88px;
+}
+.social-icon-flickr.social-icon-24 { 
+  background-position: -72px -64px;
+}
+.social-icon-flickr.social-icon-24:hover {
+  background-position: -72px -88px;
+}
+.social-icon-facebook.social-icon-24 { 
+  background-position: -96px -64px;
+}
+.social-icon-facebook.social-icon-24:hover {
+  background-position: -96px -88px;
+}
+.block {
+  margin: 5px;
+  display: block;
+}
+.social-icon-16 {
+  width: 16px;
+  height: 16px;
+  background: url(sprite.png);
+  text-indent: -20000px;
+}
+.social-icon-youtube.social-icon-16 { 
+  background-position: -0px -112px;
+}
+.social-icon-youtube.social-icon-16:hover {
+  background-position: -0px -128px;
+}
+.social-icon-twitter.social-icon-16 { 
+  background-position: -16px -112px;
+}
+.social-icon-twitter.social-icon-16:hover {
+  background-position: -16px -128px;
+}
+.social-icon-rss.social-icon-16 { 
+  background-position: -32px -112px;
+}
+.social-icon-rss.social-icon-16:hover {
+  background-position: -32px -128px;
+}
+.social-icon-flickr.social-icon-16 { 
+  background-position: -48px -112px;
+}
+.social-icon-flickr.social-icon-16:hover {
+  background-position: -48px -128px;
+}
+.social-icon-facebook.social-icon-16 { 
+  background-position: -64px -112px;
+}
+.social-icon-facebook.social-icon-16:hover {
+  background-position: -64px -128px;
+}
+.block {
+  margin: 5px;
+  display: block;
+}
+.social-icon-52 {
+  width: 52px;
+  height: 52px;
+  background: url(sprite.png);
+  text-indent: -20000px;
+}
+.social-icon-youtube.social-icon-52 { 
+  background-position: -0px -144px;
+}
+.social-icon-youtube.social-icon-52:hover {
+  background-position: -0px -196px;
+}
+.social-icon-twitter.social-icon-52 { 
+  background-position: -52px -144px;
+}
+.social-icon-twitter.social-icon-52:hover {
+  background-position: -52px -196px;
+}
+.social-icon-rss.social-icon-52 { 
+  background-position: -104px -144px;
+}
+.social-icon-rss.social-icon-52:hover {
+  background-position: -104px -196px;
+}
+.social-icon-flickr.social-icon-52 { 
+  background-position: -156px -144px;
+}
+.social-icon-flickr.social-icon-52:hover {
+  background-position: -156px -196px;
+}
+.social-icon-facebook.social-icon-52 { 
+  background-position: -208px -144px;
+}
+.social-icon-facebook.social-icon-52:hover {
+  background-position: -208px -196px;
+}
+.block {
+  margin: 5px;
+  display: block;
+}
+.social-icon-64 {
+  width: 64px;
+  height: 64px;
+  background: url(sprite.png);
+  text-indent: -20000px;
+}
+.social-icon-youtube.social-icon-64 { 
+  background-position: -0px -248px;
+}
+.social-icon-youtube.social-icon-64:hover {
+  background-position: -0px -312px;
+}
+.social-icon-twitter.social-icon-64 { 
+  background-position: -64px -248px;
+}
+.social-icon-twitter.social-icon-64:hover {
+  background-position: -64px -312px;
+}
+.social-icon-rss.social-icon-64 { 
+  background-position: -128px -248px;
+}
+.social-icon-rss.social-icon-64:hover {
+  background-position: -128px -312px;
+}
+.social-icon-flickr.social-icon-64 { 
+  background-position: -192px -248px;
+}
+.social-icon-flickr.social-icon-64:hover {
+  background-position: -192px -312px;
+}
+.social-icon-facebook.social-icon-64 { 
+  background-position: -256px -248px;
+}
+.social-icon-facebook.social-icon-64:hover {
+  background-position: -256px -312px;
+}
