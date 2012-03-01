@@ -1,11 +1,13 @@
 <?php 
 
 $icons = array(
+  'generic',
   'youtube',
   'twitter',
   'rss',
   'flickr',
   'facebook',
+  'printer',
 );
 
 $sizes = array(

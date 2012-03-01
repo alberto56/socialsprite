@@ -59,6 +59,13 @@ sprite.css and sprite.png and the actual files that you should add to your site.
 VERSION HISTORY
 ***************
 
+v. 1.0-alpha2, 1 march, 2012
+
+- (fixed) https://github.com/alberto56/socialsprite/issues/1 print button
+- (fixed) https://github.com/alberto56/socialsprite/issues/2 background grid for development
+- (fixed) https://github.com/alberto56/socialsprite/issues/2 first icon should be a generic one
+- (fixed) removed .block class from the sprite.css file
+
 v. 1.0-alpha1, 29 Feb. 2012: initial launch
 
 CONTACT
@@ -68,6 +75,8 @@ Albert Albala @alberto56 on twitter
 
 LICENSE FOR THE ICONS
 *********************
+
+The printer icon is based based on the printer from http://thedesigninspiration.com/articles/10-free-useful-icons-for-designers/ (license-free) and a generic background from http://icondock.com/free/vector-social-media-icons
 
 URL: http://icondock.com/free/vector-social-media-icons
 From the site: "Free to use for whatever purposes".
